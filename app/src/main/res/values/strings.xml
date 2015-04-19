@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AP EyE</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="openDrawer">opened Drawer</string>
+    <string name="closeDrawer">closed drawer</string>
+</resources>
